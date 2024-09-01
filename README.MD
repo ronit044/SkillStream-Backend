@@ -1,4 +1,4 @@
-### API/BACKEND FOR FREEDEMY
+### API/BACKEND FOR SkillStream
 
 #### Setup
 
